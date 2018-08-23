@@ -1,0 +1,2 @@
+#!/bin/bash
+make COMPILER=ARM MPI_COMPILER=mpif90 C_MPI_COMPILER=mpicc
